@@ -1,9 +1,3 @@
-# de_project_03_stock_etl_pipeline
-As promised, we’re diving into a comprehensive Live Data Engineering Project! This session covers an end-to-end data pipeline, including extraction, transformation, and loading (ETL) processes, using real-time stock data.
-
-Connect with me on LinkedIn for more updates: https://www.linkedin.com/in/im-nsk/
-
-In this project, we’ll build an ETL pipeline to extract stock time-series data from a public API, transform it to keep only relevant fields, and load the final processed data as a CSV file to an AWS S3 bucket.
 **API LINK**: https://www.alphavantage.co/
 
 #### **Technologies and Tools**
